@@ -19,4 +19,4 @@ O intuito do projeto é desenvolver um servidor json (Json-server) contendo 3 ro
 
 ## 🖥️ Servidor
 
-Para acessar o servidor, <a href="">clique aqui</a>.
+Para acessar o servidor, <a href="https://projeto-json-server-wb5g.onrender.com">clique aqui</a>.
